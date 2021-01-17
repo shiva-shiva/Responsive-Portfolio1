@@ -1,0 +1,94 @@
+body{
+    background-image:url("./images/laptop.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+.new-nav{
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+}
+
+.new-nav .navbar-nav .nav-link {
+    color: rgb(0, 119, 255);
+    font-size: 20px;
+    font-family: 'Fraunces', serif;
+}
+.navbar-brand{
+    font-family: 'Fraunces', serif;
+    font-size: 35px;
+    padding-left:50px;
+    color: rgb(0, 119, 255);;
+    text-shadow: 2px 2px 4px #a09f9f;
+}
+.about{
+    width:70%;
+    height:600px;
+    background-color: rgb(3, 3, 3);
+    margin-top: 100px;
+    margin-left:100px;
+    opacity: 0.8;
+}
+#aboutHead{
+    font-family: 'Fraunces', serif;
+    color:white;
+    padding:60px 20px 40px 40px;
+    
+}
+#img-me{
+    padding-left:30px;
+}
+
+.text-me{
+    color:rgb(129, 219, 255);
+    font-family: 'Fraunces', serif;
+    font-size:18px;
+    line-height: 30px;
+}
+.text-me2{
+    color:rgb(129, 219, 255);
+    font-family: 'Fraunces', serif;
+    font-size:18px;
+    line-height: 30px;
+    padding:20px 0px 0px 60px;
+}
+
+/* contact page*/
+
+.contact-card{
+    margin: 150px 0px 0px 70px;
+    background-color: #496b5e;
+    opacity:0.9;
+}
+.contact-body{
+    padding: 50px 80px 50px 50px;
+}
+
+.contact-title{
+    font-family: 'Fraunces', serif;
+    font-size:40px;
+    color:#a9ecd2
+}
+.submit-btn{
+    font-family: 'Fraunces', serif;
+    font-size:18px;
+    background-color:#31745a;
+    border-color: #00c278;
+}
+
+.contact-label{
+    font-size: 18px;
+    color:#a9ecd2
+   
+}
+
+
+@media screen and (max-width: 992px) {
+    .contact-card{
+        margin: 150px 10px 10px 10px;
+       
+    }
+  }
