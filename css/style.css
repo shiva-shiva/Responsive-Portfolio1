@@ -1,11 +1,4 @@
-body{
-    background-image:url("./images/laptop.jpg") ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    display: block;
-    position: relative;
-}
+
 
 .new-nav{
     height: 80px;
@@ -91,4 +84,18 @@ body{
         margin: 150px 10px 10px 10px;
        
     }
+  }
+
+
+  /* Portfolio */
+
+  .portfolio-img{
+      width: 350px;
+      height:350px;
+  }
+
+  .portfolio-card {
+    margin: 150px 0px 0px 70px;
+    background-color: #000000;
+    opacity:0.8; 
   }
