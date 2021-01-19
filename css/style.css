@@ -1,17 +1,18 @@
 
 body{
-    background-image:url("./images/girl.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     display: block;
     position: relative;
+    font-family: 'Fraunces', serif;
 }
+/* chane nav style*/
 .new-nav{
     height: 80px;
     background-color: rgb(255, 255, 255);
 }
-
+/* change navbar link style*/
 .new-nav .navbar-nav .nav-link {
     color: rgb(0, 119, 255);
     font-size: 25px;
@@ -25,6 +26,8 @@ body{
     color: rgb(0, 119, 255);;
     text-shadow: 2px 2px 4px #a09f9f;
 }
+
+/* About me card */
 .about{
     width:70%;
     height:600px;
@@ -39,8 +42,6 @@ body{
     padding:60px 20px 40px 40px;
     
 }
-
-
 .text-me{
     color:rgb(129, 219, 255);
     font-family: 'Fraunces', serif;
@@ -82,33 +83,7 @@ body{
 .contact-label{
     font-size: 18px;
     color:#a9ecd2
-   
-}
-
-@media screen and (max-width: 992px) {
-    .portfolio-card {
-        margin: 150px 0px 0px 0px !important;
-       
-      }
-    .contact-card{
-        margin: 50px 10px 10px 10px;
-       
-    }
-    .text-me{
-        font-size:16px;
-        line-height: 30px;
-    }
-    .navbar-brand{
-        font-size: 35px;
-
-    }
-    .new-nav .navbar-nav .nav-link {
-        color: rgb(0, 0, 0);
-        font-size: 25px;
-        background-color: rgb(255, 255, 255);
-        border-bottom:2px solid rgb(0, 0, 0);
-    }
-  }
+}  
 
 
   /* Portfolio */
@@ -151,4 +126,30 @@ body{
     border: 1px solid rgb(255, 0, 157);
     width:60%;
     margin: auto;
+  }
+
+  /* media queries */
+@media screen and (max-width: 992px) {
+    .portfolio-card {
+        margin: 150px 0px 0px 0px !important;
+       
+      }
+    .contact-card{
+        margin: 50px 10px 10px 10px;
+       
+    }
+    .text-me{
+        font-size:16px;
+        line-height: 30px;
+    }
+    .navbar-brand{
+        font-size: 35px;
+
+    }
+    .new-nav .navbar-nav .nav-link {
+        color: rgb(0, 0, 0);
+        font-size: 25px;
+        background-color: rgb(255, 255, 255);
+        border-bottom:2px solid rgb(0, 0, 0);
+    }
   }
