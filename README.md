@@ -23,19 +23,20 @@ Bootstrap 5 | GitHub API | CSS
      Technical Skills
      Soft Skills
      About myself, my Interests, Goals and Hobbies
-T    hings I'm good at (Skills)
+     Things I'm good at (Skills)
 
 -portfolio
 
      Recent Projects (using GitHub API)
 
 -Footer
+
      Copyrights - open source
 
 #Setup And Deployment
 
 1- To Get Started, Fork this repository to your GitHub account:
 
-2- Clone the forked repo from your account using:
+2- ReClone the forked repo from your account using:
 
 https://github.com/shiva-shiva/Responsive-Portfolio1.git
