@@ -150,4 +150,21 @@ body{
         position: relative;
         z-index: 5;
     }
+    .footer{
+        font-size:22px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .contact-body{
+        padding: 50px 10px 50px 10px;
+    }
+    .text-me{
+        padding-left:6px;
+    }
+    .navbar-brand {
+        font-size: 25px;
+    }
+    .contact-title{
+        font-size:28px
+    }
   }
