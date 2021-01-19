@@ -1,4 +1,4 @@
-                                                                       Developer's Portfolio
+                                                    Developer's Portfolio
 
 It is a personal static website/portfolio  hosted with GitHub Pages, built to showcase my recent projects. 
 Site URL / Demo: https://shiva-shiva.github.io/Responsive-Portfolio1/
