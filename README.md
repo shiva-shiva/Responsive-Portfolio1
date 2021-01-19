@@ -13,8 +13,7 @@ Bootstrap 5 | GitHub API | CSS
 -Navigation bar
 
     Portfolio
-    Name | Profession
-    Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
+    Contact 
     Resume | About me
 
 -About Me
@@ -23,7 +22,6 @@ Bootstrap 5 | GitHub API | CSS
      Technical Skills
      Soft Skills
      About myself, my Interests, Goals and Hobbies
-     Things I'm good at (Skills)
 
 -portfolio
 
