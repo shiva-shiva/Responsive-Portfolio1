@@ -7,6 +7,7 @@ body{
     position: relative;
     font-family: 'Fraunces', serif;
 }
+
 /* chane nav style*/
 .new-nav{
     height: 80px;
@@ -60,7 +61,7 @@ body{
 /* contact page*/
 
 .contact-card{
-    margin: 150px 0px 0px 70px;
+    margin: 150px 0px 50px 70px;
     background-color: #496b5e;
     opacity:0.9;
 }
@@ -88,13 +89,8 @@ body{
 
   /* Portfolio */
 
-  .portfolio-img{
-      width: 350px;
-      height:350px;
-  }
-
   .portfolio-card {
-    margin: 150px 0px 0px 70px;
+    margin: 150px 0px 250px 0px;
     background-color: #000000;
     opacity:0.8; 
   }
@@ -135,7 +131,7 @@ body{
        
       }
     .contact-card{
-        margin: 50px 10px 10px 10px;
+        margin: 50px 10px 40px 10px;
        
     }
     .text-me{
@@ -151,5 +147,7 @@ body{
         font-size: 25px;
         background-color: rgb(255, 255, 255);
         border-bottom:2px solid rgb(0, 0, 0);
+        position: relative;
+        z-index: 5;
     }
   }
